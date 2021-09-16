@@ -11,8 +11,5 @@
 <div>
   <a href="https://github.com/mariana-98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariana-98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-98&layout=compact&langs_count=7&theme=dracula"/>
-    
-    
-    ![Snake animation](https://github.com/mariana-98/mariana-98/blob/output/github-contribution-grid-snake.svg)
-    
+  <img align="right" alt="Rafa-yoda" src="https://i.pinimg.com/236x/01/2e/c0/012ec0a436595137dd7758020bd656f0.jpg">
 </div>
