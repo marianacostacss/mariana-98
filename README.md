@@ -11,8 +11,5 @@
 <div>
   <a href="https://github.com/mariana-98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-98&layout=compact&langs_count=7&theme=dark"/>
-  <img align="right" alt="Rafa-yoda" src="https://tenor.com/view/lisa-simpson-coffee-good-morning-simpsons-gif-11810055">
+  <img align="right" alt="Lisa" src="https://c.tenor.com/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif">
 </div>
-
-  
- <div class="tenor-gif-embed" data-postid="11810055" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/lisa-simpson-coffee-good-morning-simpsons-gif-11810055">Lisa Simpson Coffee GIF</a>from <a href="https://tenor.com/search/lisa+simpson-gifs">Lisa Simpson GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
