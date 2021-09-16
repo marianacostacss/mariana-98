@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/mariana-98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-98&layout=compact&langs_count=7&theme=dark"/>
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Rafa-yoda" src="https://tenor.com/view/lisa-simpson-coffee-good-morning-simpsons-gif-11810055">
 </div>
 
   
