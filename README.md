@@ -11,6 +11,6 @@
 <div>
   <a href="https://github.com/mariana-98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariana-98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="Lisa-Coffee" src="https://c.tenor.com/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif" height="230" width="306">
+    <img align="right" alt="Lisa-Coffee" src="https://c.tenor.com/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif" height="210" width="279">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-98&layout=compact&langs_count=7&theme=dracula"/>
 </div>
