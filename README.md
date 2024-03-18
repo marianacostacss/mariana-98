@@ -1,5 +1,5 @@
 ### ⭐ Hello, World! ⭐
-### I'm Mariana Costa Cassiano \
+### I'm Mariana Costa Cassiano
 
 
   
