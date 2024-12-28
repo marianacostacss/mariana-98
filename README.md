@@ -23,6 +23,6 @@
 
 <!-- Colocando o GIF no final -->
 <div>
-  <img alt="Lisa-Codding" src="https://br.jetss.com/wp-content/uploads/2021/05/Los-Simpsons_-Photo.gif" height="230" width="220">
+  <img alt="Lisa-Codding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M3MzhxZWkyMW00Z3BwdjFoa3ozaWg1dDBzeDI0cmxmMGtpeGh1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IhPXmPzsNLiUuI9BgN/giphy.webp" height="84.14" width="762">
 </div>
 
