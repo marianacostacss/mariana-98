@@ -16,6 +16,8 @@
   <a href="https://github.com/marianacostacss" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianacostacss&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
   </a>
-  <img align="right" alt="Lisa-Codding" src="https://br.jetss.com/wp-content/uploads/2021/05/Los-Simpsons_-Photo.gif" height="230" width="220">
+  <br> <!-- Adicionando uma quebra de linha -->
+  <img alt="Lisa-Codding" src="https://br.jetss.com/wp-content/uploads/2021/05/Los-Simpsons_-Photo.gif" height="230" width="220">
+  <br> <!-- Adicionando uma quebra de linha -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacostacss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
