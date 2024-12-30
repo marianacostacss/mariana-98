@@ -25,11 +25,4 @@
   </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacostacss&layout=compact&langs_count=7&theme=dracula"/>
   <br>
-  <br>
 </div>
-
-<!-- Colocando o GIF no final -->
-<div>
-  <img alt="Lisa-Codding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ5Zm84a21iOGplaXE5cXMyOXl6NXA5a29rNHRuNXZ5cDR2ZXoxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzPIgqNtV9Ydz0WceQ/giphy.webp" height="84.14" width="762">
-</div>
-
