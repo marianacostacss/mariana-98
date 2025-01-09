@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/marianacostacss/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 121px; height: 30px;">
     </a>
-    <a href="https://drive.google.com/file/d/1d1HJ32t9p-fpvicStjgSO2Hxo25pWInb/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/drive/folders/1zh2mN0e2_3H5Cm65zogOPjrecA_dpfQX?usp=sharing">
       <img src="https://img.shields.io/badge/Curr%C3%ADculo-%23FF6347?style=for-the-badge&logo=readme&logoColor=white" style="width: 121px; height: 30px;">
     </a>
 </div>
